@@ -1,0 +1,6 @@
+
+{
+  "Name": "ender_dragon_zombie",
+  "Registry ID": "armorplus:ender_dragon_zombie",
+  "Class": "net.thedragonteam.armorplus.entity.entityzombie.EntityEnderDragonZombie"
+}
